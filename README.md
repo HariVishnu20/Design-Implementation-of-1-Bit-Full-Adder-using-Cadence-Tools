@@ -50,7 +50,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ## Output
 ### Transient Analysis Output:
 ![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
-![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
+![vlsi 1](https://github.com/user-attachments/assets/f4c8260c-4473-4657-a7e1-455d20d6b4da)
 ![vlsi 3](https://github.com/user-attachments/assets/0ad27b0b-cc61-46f4-9b8c-2a9dee37a02e)
 
 ## Results
