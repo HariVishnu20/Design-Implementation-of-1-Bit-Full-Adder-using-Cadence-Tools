@@ -53,6 +53,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ![vlsi 1](https://github.com/user-attachments/assets/f4c8260c-4473-4657-a7e1-455d20d6b4da)
 ![vlsi 3](https://github.com/user-attachments/assets/0ad27b0b-cc61-46f4-9b8c-2a9dee37a02e)
 
+
+
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
 2. Performed **transient analysis**, verifying the correct operation of the **Full Adder**.
